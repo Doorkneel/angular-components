@@ -1,0 +1,25 @@
+@import "./pallete.scss";
+
+* {
+    padding: 15px;
+    font-family: $sans-serif;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.block {
+    width: 100%;
+}
+
+.primary {
+    background-color: $primary;
+}
+
+.secondary {
+    color: $light;
+    background-color: $secondary;
+}
+
+.neutral {
+    background-color: $neutral;
+}

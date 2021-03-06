@@ -1,0 +1,11 @@
+<div class="navbar">
+    <div class="head">
+        <h2 class="title">{{ title }}</h2>
+        <div class="menu-button">#</div>
+    </div>
+    <ul class="menu-items">
+        <li *ngFor="let item of menu">
+            {{ item["name"]}}
+        </li>
+    </ul>
+</div>

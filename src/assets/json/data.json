@@ -1,0 +1,43 @@
+{
+    "title" : "Title",
+
+    "menu-items" : [
+        {
+            "name":"item1"
+        },
+        {
+            "name":"item2"
+        },
+        {
+            "name":"item3"
+        }
+    ],
+
+    "features" : [
+        {
+            "name" : "Lorem Ipsum",
+            "description" : 
+            "Sed ut perspiciatis unde omnis iste natus."
+        },
+        {
+            "name" : "Lorem Ipsum",
+            "description" : 
+            "Sed ut perspiciatis unde omnis iste natus."
+        },
+        {
+            "name" : "Lorem Ipsum",
+            "description" : 
+            "Sed ut perspiciatis unde omnis iste natus."
+        },
+        {
+            "name" : "Lorem Ipsum",
+            "description" : 
+            "Sed ut perspiciatis unde omnis iste natus."
+        },
+        {
+            "name" : "Lorem Ipsum",
+            "description" : 
+            "Sed ut perspiciatis unde omnis iste natus."
+        }
+    ]
+}
